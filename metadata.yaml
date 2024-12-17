@@ -1,0 +1,33 @@
+_repo: Aux-pays-du-Soudan-Bogos-Mensah-Souakim_74823
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Martin-Chablis, Ernest
+    gutenberg_agent_id: '57670'
+    url: http://www.gutenberg.org/2009/agents/57670
+creator:
+  author:
+    agent_name: Rivoyre, Denis de
+    gutenberg_agent_id: '57669'
+    url: http://www.gutenberg.org/2009/agents/57669
+description: ''
+gutenberg_issued: '2024-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74823'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=u9V-KSDFEMcC
+pgterms:marc905: 20231223004003rivoyre
+pgterms:marc906: '1885'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aParis :$bPlon, Nourrit et Cie, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aux pays du Soudan - Bogos, Mensah, Souakim
+url: http://www.gutenberg.org/ebooks/74823
