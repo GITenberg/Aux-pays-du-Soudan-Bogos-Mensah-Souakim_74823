@@ -5,12 +5,17 @@ contributor:
     agent_name: Martin-Chablis, Ernest
     gutenberg_agent_id: '57670'
     url: http://www.gutenberg.org/2009/agents/57670
+covers:
+- cover_type: archival
+  image_path: 74823-h/images/cover.jpg
 creator:
   author:
     agent_name: Rivoyre, Denis de
     gutenberg_agent_id: '57669'
     url: http://www.gutenberg.org/2009/agents/57669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74823#Aux-pays-du-Soudan-Bogos-Mensah-Souakim
 gutenberg_issued: '2024-11-30'
 gutenberg_type: Text
 identifiers:
